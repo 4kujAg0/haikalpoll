@@ -25,11 +25,11 @@ global.botname = 'ꪶ 𝟒𝐑𝐚𝐧𝐳𝐙 〩 𝐌𝐨𝐝𝐬 丰' //ubah 
 global.footer = 'ꪶ 𝟒𝐑𝐚𝐧𝐳𝐙 〩 𝐌𝐨𝐝𝐬 丰' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6282393734303']
+global.owner = ['687807060']
 global.packname = 'ꪶ 𝟒𝐑𝐚𝐧𝐳𝐙 〩 𝐌𝐨𝐝𝐬 丰'
 global.ownerr = ['ꪶ 𝟒𝐑𝐚𝐧𝐳𝐙 〩 𝐌𝐨𝐝𝐬 丰']
 global.author = 'Bot Privat🎭'
-global.sessionName = './sessionye/haikal'
+global.sessionName = './session'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
 global.mess = {    
